@@ -1,0 +1,18 @@
+item,weight_kg,volume,day,category
+Овсянка,1.178,large,03,regular
+Чернослив,0.220,small,03,regular
+Ромашка,0.220,small,06,spice
+Сухари завтрак,1.274,large,05,regular
+Арахис,0.368,small,06,regular
+Суп,0.699,medium,05,regular
+Фундук,0.347,small,09,regular
+Колбаса,1.200,medium,03,regular
+Изюм,0.374,small,03,regular
+Козинаки,0.635,small,03,regular
+Халва,0.540,small,03,regular
+Шпроты,1.438,medium,03,regular
+Тульские пряники,0.725,small,04,regular
+Макароны,2.058,large,04,regular
+Паштетом,0.792,medium,04,regular
+Ириски,0.178,small,08,regular
+Изюм завтрак,0.345,small,08,regular

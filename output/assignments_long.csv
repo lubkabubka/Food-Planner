@@ -1,0 +1,18 @@
+person,item,weight_kg,day,volume,category
+Кучер,Шпроты,1.438,03,medium,regular
+Воркожоков,Колбаса,1.2,03,medium,regular
+Дружинин,Овсянка,1.178,03,large,regular
+Глазько,Козинаки,0.635,03,small,regular
+Захаров,Халва,0.54,03,small,regular
+Захаров,Изюм,0.374,03,small,regular
+Воркожоков,Чернослив,0.22,03,small,regular
+Кологов,Макароны,2.058,04,large,regular
+Ильина,Паштетом,0.792,04,medium,regular
+Раевский,Тульские пряники,0.725,04,small,regular
+Тельнов,Сухари завтрак,1.274,05,large,regular
+Щербатов,Суп,0.699,05,medium,regular
+Зуйкова,Арахис,0.368,06,small,regular
+Кучер,Ромашка,0.22,06,small,spice
+Глазько,Изюм завтрак,0.345,08,small,regular
+Дружинин,Ириски,0.178,08,small,regular
+Кучер,Фундук,0.347,09,small,regular
